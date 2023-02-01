@@ -11,5 +11,7 @@ The Mind mapping below was done to highlight the company's problems and solution
  ![PROCESS MAP](https://user-images.githubusercontent.com/119592062/215353920-f99eb087-5cec-4cca-81fc-40063d6b59c8.png)
 
  A prototype for FOTHPAY was created using Pencil.
- Uploading Untitled.mp4…
+https://user-images.githubusercontent.com/119592062/216051064-8184ec11-1f65-4da6-9cc2-92e4fd9b2801.mp4
+
+ 
 
