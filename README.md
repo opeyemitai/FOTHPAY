@@ -1,4 +1,7 @@
 # FOTHPAY
+
+##Insight
+
 In this project a Business model canvas was developed for a blockchain company known as FOTHPAY.
 The Business Model Canvas(BMC)a business tool used to visualise all the building blocks when you want to start a business, including customers, route to market, value proposition and finance. It is also a stragetic planning and management tool used to illustrate, summarise and to develop new business models and storing existing ones.
 This BMC below shows key partners in partnership with FOTHPAY,key activities, value preposition, customer relationship, customer segments, key resources, channels, cost structure and revenue streams.
