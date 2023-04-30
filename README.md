@@ -1,12 +1,13 @@
 # FOTHPAY
 ## PROBLEM STATEMENT
-Create a BMC for FOTHPAY
+A BMC for FOTHPAY
 
-Design a mind map
+A mind map of solutions to the problems (developed with Xmind)
 
-Design a Business Process Model with Bizagi
+A Process map of how the mobile App will flow or communicate (developed with Bizagi modeler)
 
-Create a business proto type with Pencil
+The prototype of solution with Pencil
+
 ## EXISTING PROBLEM
 FOTHPAY Customers were constantly having issues with their withdrawals, poor customer service, slow response time, delayed payment,downtime caused by server issues and bugs were also detected on the web & Apps of Fothpay.
 
@@ -33,3 +34,4 @@ https://user-images.githubusercontent.com/119592062/216051064-8184ec11-1f65-4da6
 
  
 
+_Disclaimer: This is a friction company created for the purpose of this project._
